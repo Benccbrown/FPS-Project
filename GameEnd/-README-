@@ -1,1 +1,3 @@
-
+All of the code here controls what will happen when the game ends, the user can control their mouse. 
+A button will appear allowing them to press it and close the application. 
+Along with this their final difficulty is presented to them.
